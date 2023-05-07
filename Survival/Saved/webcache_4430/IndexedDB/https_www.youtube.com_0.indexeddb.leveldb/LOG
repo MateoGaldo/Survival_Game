@@ -1,0 +1,6 @@
+2023/05/07-13:18:19.757 3484 Creating DB D:/Proyectos/Survival_Game/Survival/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/05/07-13:18:19.867 3484 Reusing MANIFEST D:/Proyectos/Survival_Game/Survival/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/07-13:21:36.632 df0 Level-0 table #5: started
+2023/05/07-13:21:36.663 df0 Level-0 table #5: 10137 bytes OK
+2023/05/07-13:21:36.706 df0 Delete type=0 #3
+2023/05/07-13:21:36.707 df0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

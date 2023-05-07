@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Proyectos/Survival_Game/Survival/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Proyectos/Survival_Game/Survival/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/JE/4I12RC4CI1T9266HXQOLD1.uasset"
+			]
+		}
+	]
+}

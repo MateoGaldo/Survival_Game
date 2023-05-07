@@ -1,0 +1,16 @@
+[0507/131536.164:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0507/131732.383:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0507/131754.193:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0507/131754.193:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0507/131754.193:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0507/131754.193:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0507/131754.194:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0507/131754.194:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0507/131754.194:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0507/131754.194:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0507/131754.195:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0507/131754.195:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0507/131754.195:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0507/131754.195:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0507/131754.197:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0507/131815.433:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 477
